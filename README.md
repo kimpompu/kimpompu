@@ -2,8 +2,7 @@
 
 
 <div align="center">
-## :seedling: 발전하는 백엔드 개발자입니다.
-<br/><br/>
+:seedling: 발전하는 백엔드 개발자입니다.<br/><br/>
 <br/><br/>
 
 
